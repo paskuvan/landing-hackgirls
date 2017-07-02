@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body, html {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.main .navbar-brand .logo {
+	max-width: 100%;
+}
+
+.main {
+	background: url('./img/bg22.jpeg');
+	height: 560px;
+}
+
+.cuerpo {
+	background: url('./img/bg23.jpg');
+	height: 360px;
+	opacity: 1;
+}
+
+.cuerpo .headline {
+	color: #ffffff;
+	padding-top: 110px;
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+
+.btn-danger {
+	margin-right: 50%;
+	margin: 1%;
+	
+}
+
+.btn-sucess {
+	margin-right: 40%;
+	margin: 1%;
+	
+}
+
+fijate que tienes una estructura con dos botones
+
+prueba con un div de tamano mas pequeno que contenga a ambos botones y ese div alinearlo al centro
+
+
+
+
+
